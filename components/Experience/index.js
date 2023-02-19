@@ -28,7 +28,7 @@ const Experience = () => {
           AMDOCS
         </Text>
       </Text>
-      <Text style={styles.subTitle}>July 2k22 - Present</Text>
+      <Text style={styles.subTitle}>July 2022 - Present</Text>
       {amdocsData.map((item) => (
         <View style={styles.list} key={item}>
           <MaterialIcons
@@ -53,7 +53,7 @@ const Experience = () => {
           TCS
         </Text>
       </Text>
-      <Text style={styles.subTitle}>Sept 2k20 - July 2k22</Text>
+      <Text style={styles.subTitle}>Sept 2020 - July 2k22</Text>
       {tcsData.map((item) => (
         <View style={styles.list} key={item}>
           <MaterialIcons

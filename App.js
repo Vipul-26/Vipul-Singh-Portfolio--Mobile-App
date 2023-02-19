@@ -20,7 +20,7 @@ import Footer from "./components/Footer";
 import Projects from "./components/Projects";
 import Svg, { Polygon, G } from "react-native-svg";
 import { StatusBar } from "expo-status-bar";
-import Constants from 'expo-constants';
+import Constants from "expo-constants";
 
 const App = () => {
   const [isHamMenuOpen, setHamMenuOpen] = React.useState(false);
@@ -87,10 +87,10 @@ const App = () => {
           <View>
             <FlatList
               data={[
-                { key: "About", value: "01.", position: 470 },
-                { key: "Experience", value: "02.", position: 1450 },
-                { key: "Projects", value: "03.", position: 2115 },
-                { key: "Contact", value: "04.", position: 4190 },
+                { key: "About", value: "01.", position: 500 },
+                { key: "Experience", value: "02.", position: 1520 },
+                { key: "Projects", value: "03.", position: 2170 },
+                { key: "Contact", value: "04.", position: 4250 },
               ]}
               style={styles.lists}
               renderItem={({ item }) => (

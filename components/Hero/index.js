@@ -17,7 +17,7 @@ const Hero = () => {
           I write code for responsive websites.
         </Text>
         <Text style={styles.description}>
-          I&lsquo;m a Front-End developer based in Sasaram, India, specializing
+          I&lsquo;m a Front-End developer based in Pune, India, specializing
           in developing high-quality websites with the latest technologies &
           best practices.
         </Text>
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     fontWeight: "400",
     marginBottom: 5,
     color: "#ffffff",
-    height: 40,
+    height: 45,
   },
   shortDesc: {
     fontSize: 36,

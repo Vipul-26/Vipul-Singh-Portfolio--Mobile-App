@@ -28,9 +28,9 @@ const About = () => {
           />
         </View>
         <Text style={styles.text}>
-          Hello! I&lsquo;m Vipul, a Front-End developer based primarily in
-          Sasaram, India, who has been jubilantly writing code for responsive
-          websites since 2020.
+          Hello! I&lsquo;m Vipul, a Front-End developer based primarily in Pune,
+          India, who has been jubilantly writing code for responsive websites
+          and mobile apps since 2020.
         </Text>
         <Text style={styles.text}>
           After my graduation from
