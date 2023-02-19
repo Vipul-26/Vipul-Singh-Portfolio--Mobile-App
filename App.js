@@ -162,9 +162,9 @@ const styles = StyleSheet.create({
     backgroundColor: "#020c1b",
   },
   closeIcon: {
-    marginTop: "6.25%",
+    marginTop: "15%",
     position: "absolute",
-    right: "5.5%",
+    right: "10%",
     zIndex: 99999999,
   },
   item: {
