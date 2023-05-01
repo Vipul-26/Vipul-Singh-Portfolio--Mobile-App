@@ -14,12 +14,12 @@ const Hero = () => {
           wait={3000}
         />
         <Text style={styles.shortDesc}>
-          I write code for responsive websites.
+          I write code for responsive websites & mobile apps.
         </Text>
         <Text style={styles.description}>
-          I&lsquo;m a Front-End developer based in Pune, India, specializing
-          in developing high-quality websites with the latest technologies &
-          best practices.
+          I&lsquo;m a Front-End developer based in Pune, India, specializing in
+          developing high-quality websites with the latest technologies & best
+          practices.
         </Text>
         <Button
           style={styles.button}
@@ -58,14 +58,15 @@ const styles = StyleSheet.create({
     height: 45,
   },
   shortDesc: {
-    fontSize: 36,
+    fontSize: 28,
     color: "#8892b0",
+    lineHeight: 35,
   },
   description: {
     fontSize: 18,
     color: "#8892b0",
     marginTop: 16,
-    lineHeight: 25
+    lineHeight: 28,
   },
   button: {
     marginTop: "10%",

@@ -5,9 +5,10 @@ import { TabView, SceneMap, TabBar, PagerScroll } from "react-native-tab-view";
 
 const Experience = () => {
   const amdocsData = [
-    "Working as a Front End Developer on developing modules & their story book for a UK based client.",
-    "Working on getting requirements from client and make Web and Mobile App as per XDC/Figma design provided by the client.",
-    "Working on React, React-Native, Redux, Typescript, Material-UI, Scss Tech Stack",
+    "Working as a Front End Developer on developing modules & their story book in React.",
+    "Working on getting requirements from client and make Web Pages and Mobile Apps as per XDC/Figma design provided by the client.",
+    "Working on integrating frontend with Rest Api",
+    "Working on React, Redux, Typescript, React-Native, Material-UI, Scss Tech Stack",
     "Built several reusable components in React & React-Native.",
   ];
   const tcsData = [
@@ -121,7 +122,7 @@ const styles = StyleSheet.create({
     paddingLeft: "8%",
     paddingRight: "8%",
     marginTop: "15%",
-    height: 650,
+    height: 700,
   },
   heading: {
     fontSize: 20,

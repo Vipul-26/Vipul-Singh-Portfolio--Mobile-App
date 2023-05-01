@@ -42,7 +42,7 @@ const About = () => {
             TCST
           </Text>
           , Bhopal, I started my career as a front-end developer and today,
-          after 2.5+ years, as a front-end developer, I worked on a good short
+          after 2.8+ years, as a front-end developer, I worked on a good short
           of web & mobile apps.
         </Text>
         <Text style={styles.text}>
