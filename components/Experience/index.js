@@ -1,7 +1,7 @@
 import { SafeAreaView, StyleSheet, Text, View, Linking } from "react-native";
 import { MaterialIcons } from "@expo/vector-icons";
 import React from "react";
-import { TabView, SceneMap, TabBar, PagerScroll } from "react-native-tab-view";
+import { TabView, SceneMap, TabBar } from "react-native-tab-view";
 
 const Experience = () => {
   const amdocsData = [
@@ -110,7 +110,6 @@ const Experience = () => {
           renderScene={renderScene}
           onIndexChange={setIndex}
           renderTabBar={renderTabBar}
-          renderPager={(props) => <PagerScroll {...props} />}
         />
       </View>
     </SafeAreaView>
