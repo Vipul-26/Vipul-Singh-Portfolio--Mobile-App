@@ -7,8 +7,8 @@ const Experience = () => {
   const amdocsData = [
     "Working as a Front End Developer on developing modules & their story book in React.",
     "Working on getting requirements from client and make Web Pages and Mobile Apps as per XDC/Figma design provided by the client.",
-    "Working on integrating frontend with Rest Api",
-    "Working on React, Redux, Typescript, React-Native, Material-UI, Scss Tech Stack",
+    "Working on integrating frontend with Rest Api.",
+    "Working on React, Redux, Typescript, React-Native, Material-UI, Scss Tech Stack.",
     "Built several reusable components in React & React-Native.",
   ];
   const tcsData = [
